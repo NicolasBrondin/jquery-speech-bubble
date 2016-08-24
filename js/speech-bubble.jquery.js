@@ -1,0 +1,1 @@
+(function($){$('.speech-bubble').html('<div class="speech-content">'+$('.speech-bubble').html()+'</div><div class="speech-tail"></div>');})(jQuery);
