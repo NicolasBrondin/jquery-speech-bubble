@@ -15,9 +15,5 @@ https://jsfiddle.net/NicolasBrondin/2Lfu7kk1/1/
 
 ## How to
 
-To implement this plugin in your project, simply add a link to this css file, and create an html element like the one in the demo.html file.
-
-## Improvement
-
-If you find a cleaner way to do it, to make it more flexible or avoid using images, come talk to me! ;)
+To implement this plugin in your project, simply add a link to this css file and to the js file AFTER including jQuery.
 
